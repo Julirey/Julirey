@@ -1,10 +1,9 @@
 
-
-<h2 align="left">¬ Hello :D</h2>
+<img align="right" height="256" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.reactor.cc%2Fpics%2Fpost%2Ffull%2FNiko-(Oneshot)-OneShot-%25D0%2598%25D0%25B3%25D1%2580%25D1%258B-Pixel-Gif-7641657.gif&f=1&nofb=1&ipt=8b7f38c60ccd912aebf71abd41da508aa69489fb2ce81f455bddc332a5fe7d86&ipo=images"  />
 
 ###
 
-<img align="right" height="256" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.reactor.cc%2Fpics%2Fpost%2Ffull%2FNiko-(Oneshot)-OneShot-%25D0%2598%25D0%25B3%25D1%2580%25D1%258B-Pixel-Gif-7641657.gif&f=1&nofb=1&ipt=8b7f38c60ccd912aebf71abd41da508aa69489fb2ce81f455bddc332a5fe7d86&ipo=images"  />
+<h2 align="left">¬ Hello :D</h2>
 
 ###
 
