@@ -1,27 +1,21 @@
+# ¬ Julio Reyes
 
-<img align="right" height="256" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.reactor.cc%2Fpics%2Fpost%2Ffull%2FNiko-(Oneshot)-OneShot-%25D0%2598%25D0%25B3%25D1%2580%25D1%258B-Pixel-Gif-7641657.gif&f=1&nofb=1&ipt=8b7f38c60ccd912aebf71abd41da508aa69489fb2ce81f455bddc332a5fe7d86&ipo=images"  />
+Hello, GitHub! 👋
 
-###
+I'm Julio Reyes, a Software Development student at Brigham Young University-Idaho who is passionate about learning all the inner-workings of machines and software.
 
-<h2 align="left">¬ Hello :D</h2>
+Welcome to my GitHub profile!
 
-###
+## ¬ About Me
 
-<p align="left">My name is Julio Reyes, and I code sometimes</p>
+- I'm currently learning python game development.
+- My goals are to improve at databases and user systems.
+- Ask me about desktop computer accesories and performance.
 
-###
+## ¬ Technologies and Tools
 
-<h2 align="left">¬ About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning how to make lasagna<br>🎯 Goals: Improving at READMEs</p>
-
-###
-
-<h2 align="left">¬ Knowledge in</h2>
-
-###
+- Proficient in: HTML, CSS, JavaScript, Python, C++, C#, Java, React, Typescript.
+- Skills: Adept with database services, Ability for UI/UX design, Accustomed to working with teammates and delegating tasks.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
@@ -43,11 +37,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 </div>
 
-###
+## ¬ Let's Connect
+
+Here is my [LinkedIn](https://www.linkedin.com/in/julioreyescc) profile, feel free to say hello and ask me anything.
+
+## ¬ Projects
+
+Some projects I would highlight were I worked on are: 
+
+- [ArtShop](https://github.com/eworsham/cse341-artShop) an API for data of artworks, paintings, and sculputures made with JavaScript, swagger documentation, and MongoDB. I created the backend services and some of the test cases with Jest.
+  
+- [HandcraftedHeaven](https://github.com/MozartSoares/WDD430-group-project) an online shop for artisans to showcase and sell their work, made with NextJs, React, TypeScript, and MongoDB. I implemented the shopping cart side bar, and added half of the API endpoints for the database services.
+
+## ¬ Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julirey&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&custom_title=Statistics" height="220" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julirey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true" height="220" alt="languages graph"  />
 </div>
-
-###
